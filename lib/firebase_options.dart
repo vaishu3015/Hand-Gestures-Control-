@@ -8,7 +8,7 @@ class DefaultFirebaseOptions {
       projectId: "vmouse-fa09d",
       storageBucket: "vmouse-fa09d.appspot.com",
       messagingSenderId: "1085317557158",
-      appId: "1:1085317557158:android:a1d5e9628d3d440ee3bd67",  // Replace with your actual App ID from Firebase settings
+      appId: "Replace with your actual App ID from Firebase settings",  // Replace with your actual App ID from Firebase settings
       measurementId: "G-YOUR_MEASUREMENT_ID",  // Optional, only for analytics
     );
   }
